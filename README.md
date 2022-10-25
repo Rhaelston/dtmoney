@@ -1,5 +1,6 @@
-Primeiro projeto do curso ignite da Rocketseat
-Esse projeto foi desenvolvido utilizando:
+First project of the ignite course Rocketseat
+This project was build using:
 
 • Typescript
 • ReactJS
+• Styled-Components
